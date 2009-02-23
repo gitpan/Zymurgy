@@ -7,7 +7,7 @@ use warnings;
 use strict;
 use Carp;
 
-use version; our $VERSION = qv('0.0.2');
+use version; our $VERSION = qv('0.0.3');
 
 {
 	my %attribute_of : ATTR( init_arg => 'attribute' );
@@ -25,7 +25,7 @@ Zymurgy::Base - The study and use of fermentations.
 
 =head1 VERSION
 
-This document describes Zymurgy::Base version 0.0.2
+This document describes Zymurgy::Base version 0.0.3
 
 
 =head1 SYNOPSIS
