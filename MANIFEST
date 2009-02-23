@@ -14,11 +14,11 @@ lib/Zymurgy/Vintner.pm
 lib/Zymurgy/Vintner/Must.pm
 lib/Zymurgy/Vintner/Recipe.pm
 lib/Zymurgy/Vintner/Batch.pm
+lib/Zymurgy/Vintner/Batch/CrushDay.pm
+lib/Zymurgy/Vintner/Batch/WineLog.pm
 lib/Zymurgy/Data.pm
 lib/Zymurgy/Data/Grist.pm
 lib/Zymurgy/Data/Hops.pm
 lib/Zymurgy/Data/Yeast.pm
 t/00.load.t
-t/perlcritic.t
-t/pod-coverage.t
 t/pod.t

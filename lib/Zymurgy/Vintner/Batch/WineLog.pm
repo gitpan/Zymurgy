@@ -1,4 +1,4 @@
-package Zymurgy::Brewer::Batch::BrewLog;
+package Zymurgy::Vintner::Batch::WineLog;
 #use base qw(BASE);
 use Class::Std;
 use Class::Std::Utils;
@@ -20,17 +20,17 @@ __END__
 
 =head1 NAME
 
-Zymurgy::Brewer::Batch::BrewLog - Software for the home brewer.
+Zymurgy::Vintner::Batch::WineLog - Software for the home wine maker.
 
 
 =head1 VERSION
 
-This document describes Zymurgy::Brewer::Batch::BrewLog version 0.0.2
+This document describes Zymurgy::Vintner::Batch::WineLog version 0.0.2
 
 
 =head1 SYNOPSIS
 
-    use Zymurgy::Brewer::Batch::BrewLog;
+    use Zymurgy::Vintner::Batch::WineLog;
 
     my $wizard = CatalystX::Wizard->new({attribute => 'value'});
 
@@ -94,7 +94,7 @@ This document describes Zymurgy::Brewer::Batch::BrewLog version 0.0.2
     that can be set. These descriptions must also include details of any
     configuration language used.
   
-Zymurgy::Brewer::Batch::BrewLog requires no configuration files or environment variables.
+Zymurgy::Vintner::Batch::WineLog requires no configuration files or environment variables.
 
 
 =head1 DEPENDENCIES
@@ -134,7 +134,7 @@ None reported.
 No bugs have been reported.
 
 Please report any bugs or feature requests to
-C<bug-zymurgy-brewer-batch-brewlog@rt.cpan.org>, or through the web interface at
+C<bug-zymurgy-vintner-batch-winelog@rt.cpan.org>, or through the web interface at
 L<http://rt.cpan.org>.
 
 
